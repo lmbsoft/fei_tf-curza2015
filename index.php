@@ -1,5 +1,6 @@
 <?php
 //este es un comentario del profesor
+// otro comentario del profesor
 
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/../yii/framework/yii.php';
